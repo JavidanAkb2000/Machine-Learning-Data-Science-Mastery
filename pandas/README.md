@@ -1,7 +1,3 @@
-Here’s an outstanding, humanly-crafted `README.md` for your **Pandas Exercises Notebook** — one that’s meant to **impress recruiters, mentors, and hiring managers** by showing both your effort and mindset 👇
-
----
-
 # 🐼 Pandas Data Analysis Exercises – Hands-On Practice Notebook
 
 > 🔍 **“Don’t just learn Pandas. Speak its language.”**
