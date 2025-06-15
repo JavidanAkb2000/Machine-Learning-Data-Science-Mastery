@@ -1,4 +1,4 @@
-# 🧠 Why Use NumPy in Machine Learning?
+# 🧠 Why Use NumPy in Machine Learning? (NumPy stands for - Numerical Python)
 
 > *“Can’t we just use Python lists?”*
 
